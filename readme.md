@@ -86,5 +86,3 @@ NexChat/
 ## 📜 License
 
 This project is created for **educational and learning purposes**. Feel free to use, modify, and improve it according to your needs.
-
----
