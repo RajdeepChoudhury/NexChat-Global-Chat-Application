@@ -4,18 +4,26 @@
 
 ---
 
+## 🖼️ Screenshot
+<br>
+<p align="center">
+  <img src="p1.jpg" alt="Picture" width="800" height="800"/>
+</p>
+
+---
+
 ## ✨ Features
 
-✅ Real-time messaging
-✅ Multiple chat rooms
-✅ Create custom rooms dynamically
-✅ Unique username system
-✅ Live online user tracking
-✅ Room member count display
-✅ Join and leave notifications
-✅ Emoji support 😃🎉🔥
-✅ Responsive design for desktop and mobile
-✅ Fast and lightweight performance
+✅ Real-time messaging<br>
+✅ Multiple chat rooms<br>
+✅ Create custom rooms dynamically<br>
+✅ Unique username system<br>
+✅ Live online user tracking<br>
+✅ Room member count display<br>
+✅ Join and leave notifications<br>
+✅ Emoji support 😃🎉🔥<br>
+✅ Responsive design for desktop and mobile<br>
+✅ Fast and lightweight performance<br>
 
 ---
 
