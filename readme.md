@@ -85,4 +85,4 @@ NexChat/
 
 ## 📜 License
 
-This project is created for **educational and learning purposes**. Feel free to use, modify, and improve it according to your needs.
+This project is licensed under the MIT License - see the LICENSE file for details.
