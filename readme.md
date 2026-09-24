@@ -14,16 +14,16 @@ NexChat is a modern real-time chat application that allows users to communicate 
 
 ## Features
 
-✅ Real-time messaging<br>
-✅ Multiple chat rooms<br>
-✅ Create custom rooms dynamically<br>
-✅ Unique username system<br>
-✅ Live online user tracking<br>
-✅ Room member count display<br>
-✅ Join and leave notifications<br>
-✅ Emoji support<br>
-✅ Responsive design for desktop and mobile<br>
-✅ Fast and lightweight performance<br>
+- Real-time messaging<br>
+- Multiple chat rooms<br>
+- Create custom rooms dynamically<br>
+- Unique username system<br>
+- Live online user tracking<br>
+- Room member count display<br>
+- Join and leave notifications<br>
+- Emoji support<br>
+- Responsive design for desktop and mobile<br>
+- Fast and lightweight performance<br>
 
 ---
 
